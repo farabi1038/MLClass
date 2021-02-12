@@ -25,7 +25,7 @@ header-includes: |
 - Unsupervised
 - Reinforcement Learning
 
-# Three types of MLs
+# 
 
 - 1 by 5 
  
