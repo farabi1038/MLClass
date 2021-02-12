@@ -3,10 +3,10 @@ title: |
          CS 474/574 Machine Learning \
          1. HW1
 author: |
-          Ibne Farabi Shihab \
-          Dept. of Computer Science \
-          Iowa State University \
-          Ames, IA, USA \
+          Ibne Farabi Shihab  
+          Dept. of Computer Science  
+          Iowa State University   
+          Ames, IA, USA  
 date:   \today
 header-includes: |
      \usepackage{amssymb}
