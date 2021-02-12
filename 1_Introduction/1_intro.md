@@ -1,9 +1,9 @@
 ---
 title: | 
          CS 474/574 Machine Learning \
-         1. Introduction
+         1. HW1
 author: |
-          Prof. Dr. Forrest Sheng Bao \
+          Ibne Farabi Shihab \
           Dept. of Computer Science \
           Iowa State University \
           Ames, IA, USA \
@@ -13,20 +13,11 @@ header-includes: |
      \usefonttheme[onlymath]{serif}
 ---
 
-# Why Machine Learning (ML)
+# Warm up.
 
-- How computers know how to do things?
-- Two ways:
-    1. programming: steps detailed by human programmer
-    2. learning: without being specifically told 
-- Example 1: machine translation
-    1. programming: writing many rules to replace and reposition words, e.g., 
-    _Do you speak Julia?_ _Sprechen Sie Julia?_   
-    2. learning: feeding the computer many bilingual documents 
-- Example 2: sorting 
-    1. programming: Quicksort, etc. 
-    2. learning: feeding the computer many pairs of unsorted and sorted list of numbers. 
-- The first approach in the context of AI is also called rule-based system or expert system, e.g. MyCin, Grammarly. 
+- the first one is Newton's first law of motion,
+- the second one is Einstein's mass-energy equation, and
+- the last one is the time complexity of Quicksort on average in Big-O notation
 
 # Why ML is attractive
 
