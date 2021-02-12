@@ -1,6 +1,6 @@
 ---
 title: | 
-         CS 474/574 Machine Learning <br>
+         CS 474/574 Machine Learning\
          1. HW1
 author: |
           Ibne Farabi Shihab <br> 
