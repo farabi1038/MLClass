@@ -1,9 +1,9 @@
 ---
 title: | 
-         CS 474/574 Machine Learning <br />
+         CS 474/574 Machine Learning <br>
          1. HW1
 author: |
-          Ibne Farabi Shihab <br /> 
+          Ibne Farabi Shihab <br> 
           Dept. of Computer Science <br /> 
           Iowa State University <br />
           Ames, IA, USA  
